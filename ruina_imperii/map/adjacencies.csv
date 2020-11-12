@@ -1,2 +1,14 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+15054;15057;sea;16278;-1;-1;-1;-1;;Skye-Rum Ford
+15054;15052;sea;15422;-1;-1;-1;-1;;Skye-Leigh Ford
+15052;15053;sea;16981;-1;-1;-1;-1;;Uist Strait
+15053;15055;sea;16981;-1;-1;-1;-1;;Bernerug Pass
+1032;10336;sea;16210;-1;-1;-1;-1;;Lochranza Strait
+1032;15058;sea;16210;-1;-1;-1;-1;;Islay Firth
+5994;15049;sea;15929;-1;-1;-1;-1;;Scape Flow
+15049;15048;sea;15929;-1;-1;-1;-1;;Orkneyjar
+10725;15071;sea;16537;-1;-1;-1;-1;;Solentum
+16733;16162;;-1;-1;-1;-1;-1;CANALIS_PELUSIUM;Canalis Pelusium
+15847;16967;;-1;-1;-1;-1;-1;VALLZOISEN_VAYLA;Vallzoisen Väylä
+15770;16184;impassable;-1;-1;-1;-1;-1;;Sea border test
 -1;-1;;-1;-1;-1;-1;-1;-1
