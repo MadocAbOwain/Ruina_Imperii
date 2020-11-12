@@ -2,13 +2,68 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 2000.1.1.12
+		date = 1930.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "TES"
+		default_country = "BRT"
 		default = yes
 		
-		"TES"={
-			history = "TES_GATHERING_STORM_DESC"
+		"BRT"={
+			history = "BRT_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"HIL"={
+			history = "HIL_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"RVK"={
+			history = "RVK_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"DRU"={
+			history = "DRU_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ALB"={
+			history = "ALB_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ICI"={
+			history = "ICI_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 				
@@ -24,9 +79,125 @@ bookmarks = {
 		}
 		
 		# minors from DLC ####
-
-		
-
+		"BRG"={
+			history = "BRG_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"CTV"={
+			history = "CTV_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}		
+		"DAR"={
+			history = "DAR_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		"DMN"={
+			history = "DMN_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"HIR"={
+			history = "HIR_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"NAG"={
+			history = "NAG_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ORD"={
+			history = "ORD_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"PAR"={
+			history = "PAR_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"PIC"={
+			history = "PIC_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"SIL"={
+			history = "SIL_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
 		effect = {
 			randomize_weather = 12345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }
