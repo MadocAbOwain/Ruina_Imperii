@@ -1,0 +1,17 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={ 8637 10509 9396 7348 10617 }
+	
+	history={
+		owner = CTV
+		add_core_of = CTV
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

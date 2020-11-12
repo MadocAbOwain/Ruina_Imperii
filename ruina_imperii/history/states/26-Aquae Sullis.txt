@@ -1,0 +1,17 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={ 10647 3746 4353 2310 10731 }
+	
+	history={
+		owner = BRT
+		add_core_of = BRT
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

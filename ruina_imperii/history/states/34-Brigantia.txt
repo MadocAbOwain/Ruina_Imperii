@@ -1,0 +1,17 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={ 9580 10391 2737 10440 10429 }
+	
+	history={
+		owner = BRG
+		add_core_of = BRG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
