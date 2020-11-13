@@ -1,0 +1,18 @@
+state={
+	id=15
+	name="STATE_15"
+	provinces={ 3106 4594 4249 }
+	
+	history={
+		owner = HIL
+		add_core_of = HIR
+		add_core_of = HIL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
