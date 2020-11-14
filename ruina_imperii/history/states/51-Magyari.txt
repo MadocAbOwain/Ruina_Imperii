@@ -1,8 +1,19 @@
+
 state={
 	id=51
 	name="STATE_51"
+	
+	history={
+		owner = MGI
+		buildings = {
+			
+
+		}
+
+	}
+	
 	provinces={
-		1228 
+		5585 6571 7660 8574 11365 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

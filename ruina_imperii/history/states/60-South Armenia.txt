@@ -1,10 +1,10 @@
 
 state={
-	id=50
-	name="STATE_50"
+	id=60
+	name="STATE_60"
 	
 	history={
-		owner = KAB
+		owner = AMN
 		buildings = {
 			
 
@@ -13,7 +13,7 @@ state={
 	}
 	
 	provinces={
-		48 2205 7008 9475 11455 11529 
+		259 1741 4480 8165 8869 9025 11728 11784 11882 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,6 +2,16 @@
 state={
 	id=48
 	name="STATE_48"
+	
+	history={
+		owner = GMR
+		buildings = {
+			
+
+		}
+
+	}
+	
 	provinces={
 		770 2494 4598 
 	}

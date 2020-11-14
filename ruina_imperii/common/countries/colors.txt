@@ -69,3 +69,58 @@ SIL = {					#SILURES
 	color = rgb { 227 25 28 }
 	color_ui = rgb { 217 15 18 }
 }
+
+AMN = {					#Armenia
+	color = rgb { 130 0 170 }
+	color_ui = rgb { 130 0 170 }
+}
+
+AZR = {					#Azeria
+	color = rgb { 74 191 140 }
+	color_ui = rgb { 74 191 140 }
+}
+
+CRC = {					#Circassia
+	color = rgb { 8 150 0 }
+	color_ui = rgb { 8 150 0 }
+}
+
+DGH = {					#Daghestan
+	color = rgb { 214 193 0 }
+	color_ui = rgb { 214 193 0 }
+}
+
+GRG = {					#Georgia
+	color = rgb { 200 136 219 }
+	color_ui = rgb { 200 136 219 }
+}
+
+GMR = {					#Green Mountain Republic
+	color = rgb { 8 96 0 }
+	color_ui = rgb { 8 96 0 }
+}
+
+KMK = {					#Kalmykia
+	color = rgb { 0 198 216 }
+	color_ui = rgb { 0 198 2169 }
+}
+
+KAB = {					#Karachay-Balkaria
+	color = rgb { 47 115 109 }
+	color_ui = rgb { 47 115 109 }
+}
+
+KHZ = {					#Khazaria
+	color = rgb { 240 191 161 }
+	color_ui = rgb { 240 191 161 }
+}
+
+MGI = {					#Magyari
+	color = rgb { 224 93 0 }
+	color_ui = rgb { 224 93 0 }
+}
+
+SBG = {					#South Bolgaria
+	color = rgb { 0 58 1 }
+	color_ui = rgb { 0 58 1 }
+}

@@ -2,6 +2,16 @@
 state={
 	id=49
 	name="STATE_49"
+	
+	history={
+		owner = GMR
+		buildings = {
+			
+
+		}
+
+	}
+	
 	provinces={
 		2175 2837 3919 6519 11582 11596 11603 
 	}

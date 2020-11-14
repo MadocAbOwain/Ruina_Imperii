@@ -2,6 +2,16 @@
 state={
 	id=40
 	name="STATE_40"
+	
+	history={
+		owner = DGH
+		buildings = {
+			
+
+		}
+
+	}
+	
 	provinces={
 		1531 2485 7729 7830 8453 9040 
 	}

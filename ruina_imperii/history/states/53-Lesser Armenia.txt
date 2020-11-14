@@ -1,0 +1,20 @@
+
+state={
+	id=53
+	name="STATE_53"
+	
+	history={
+		owner = AMN
+		buildings = {
+			
+
+		}
+
+	}
+	
+	provinces={
+		1467 4211 5381 5385 5640 5863 6012 6077 6099 6697 9362 11827 11876 11899 11914 11920 11949 12008 12019 12073 17395 17398 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

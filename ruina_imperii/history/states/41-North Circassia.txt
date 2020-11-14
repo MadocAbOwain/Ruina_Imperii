@@ -2,6 +2,16 @@
 state={
 	id=41
 	name="STATE_41"
+	
+	history={
+		owner = CRC
+		buildings = {
+			
+
+		}
+
+	}
+	
 	provinces={
 		629 1165 2172 3841 5414 6356 6533 6913 7039 7576 7986 8594 8692 11352 11381 11402 
 	}

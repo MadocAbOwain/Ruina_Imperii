@@ -206,6 +206,20 @@
  SIL_democratic_ADJ:0 "Silurian"
  SIL_neutrality_ADJ:0 "Silurian"
  SIL_communism_ADJ:0 ""Silurian 
+ 
+ ###Caucasus###
+ AMN: "Armenia"
+ AZR: "Azeria"
+ CRC: "Adyghe Confederacy"
+ DGH: "Daghestan"
+ GMR: "Green Mountain Republic"
+ GRG: "Georgia"
+ KAB: "Karachay-Balkaria"
+ KHZ: "Khazar Confederacy"
+ KMK: "Kalmykia"
+ MGI: "Magyarí"
+ SBG: "South Bolgaria"
+ 
 ####################################################################################
  _fascism:0 ""
  _fascism_DEF:0 ""
