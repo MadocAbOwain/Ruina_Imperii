@@ -1,0 +1,102 @@
+focus_tree = {
+	id = magyari_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = MGI
+		}
+	}
+	
+	default = no
+	reset_on_civilwar = no
+
+	focus = {
+		id = MGI_death_of_zarand
+		icon = GFX_goal_generic_allies_build_infantr
+		x = 5
+		y = 0
+		cost = 1
+		
+		prerequisite = {}
+		mutually_exclusive = { }
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	
+	focus = {
+		id = MGI_summon_council
+		icon = GFX_goal_generic_allies_build_infantr
+		x = 5
+		y = 1
+		cost = 5
+		
+		prerequisite = { focus = MGI_death_of_zarand }
+		mutually_exclusive = { }
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	
+	focus = {
+		id = MGI_the_debate
+		icon = GFX_goal_generic_allies_build_infantr
+		x = 3
+		y = 2
+		cost = 5
+		
+		prerequisite = { focus = MGI_summon_council }
+		mutually_exclusive = { }
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	
+	focus = {
+		id = MGI_the_battle
+		icon = GFX_goal_generic_allies_build_infantr
+		x = 7
+		y = 2
+		cost = 5
+		
+		prerequisite = { focus = MGI_summon_council }
+		mutually_exclusive = { }
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+	
+	focus = {
+		id = MGI_the_council_verdict
+		icon = GFX_goal_generic_allies_build_infantr
+		x = 5
+		y = 3
+		cost = 5
+		
+		prerequisite = { focus = MGI_the_battle }
+		prerequisite = { focus = MGI_the_debate }
+		mutually_exclusive = { }
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+		
+		}
+	}
+
+}

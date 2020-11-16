@@ -5,6 +5,11 @@ state={
 	
 	history={
 		owner = MGI
+		
+		victory_points = { 6571 20 }
+		
+		victory_points = { 11365 5 }
+		
 		buildings = {
 			
 
