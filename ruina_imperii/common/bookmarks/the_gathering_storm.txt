@@ -52,7 +52,7 @@ bookmarks = {
 			}
 		}
 		"PIC"={
-			history = "ALB_GATHERING_STORM_DESC"
+			history = "PIC_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 				
@@ -76,7 +76,6 @@ bookmarks = {
 		"SIL"={
 			history = "SIL_GATHERING_STORM_DESC"
 			ideology = democratic
-			minor = yes
 			ideas = {
 				
 				
@@ -88,7 +87,6 @@ bookmarks = {
 		"DMN"={
 			history = "DMN_GATHERING_STORM_DESC"
 			ideology = democratic
-			minor = yes
 			ideas = {
 				
 				
@@ -182,7 +180,7 @@ bookmarks = {
 			}
 		}
 		"ALB"={
-			history = "PIC_GATHERING_STORM_DESC"
+			history = "ALB_GATHERING_STORM_DESC"
 			ideology = democratic
 			minor = yes
 			ideas = {
