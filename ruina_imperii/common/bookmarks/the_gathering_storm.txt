@@ -51,7 +51,7 @@ bookmarks = {
 			
 			}
 		}
-		"ALB"={
+		"PIC"={
 			history = "ALB_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -73,11 +73,30 @@ bookmarks = {
 			
 			}
 		}
-		
-		"---"={
-			history = "OTHER_GATHERING_STORM_DESC"
+		"SIL"={
+			history = "SIL_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
 		}
-		
+		"DMN"={
+			history = "DMN_GATHERING_STORM_DESC"
+			ideology = democratic
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
 		# minors from DLC ####
 		"BRG"={
 			history = "BRG_GATHERING_STORM_DESC"
@@ -114,18 +133,6 @@ bookmarks = {
 			focuses = {
 			
 			}
-		"DMN"={
-			history = "DMN_GATHERING_STORM_DESC"
-			ideology = democratic
-			minor = yes
-			ideas = {
-				
-				
-			}
-			focuses = {
-			
-			}
-		}
 		"HIR"={
 			history = "HIR_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -174,20 +181,8 @@ bookmarks = {
 			
 			}
 		}
-		"PIC"={
+		"ALB"={
 			history = "PIC_GATHERING_STORM_DESC"
-			ideology = democratic
-			minor = yes
-			ideas = {
-				
-				
-			}
-			focuses = {
-			
-			}
-		}
-		"SIL"={
-			history = "SIL_GATHERING_STORM_DESC"
 			ideology = democratic
 			minor = yes
 			ideas = {
