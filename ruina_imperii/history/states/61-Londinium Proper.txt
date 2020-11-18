@@ -1,17 +1,17 @@
 state={
-	id=12
-	name="STATE_12"
-	provinces={ 10733 10742 3644 6426 }
+	id=61
+	name="STATE_61"
+	provinces={ 17500 }
 	
 	history={
-		owner = BRT
-		add_core_of = BRT
+		owner = BRG
+		add_core_of = BRG
 		buildings = {
 			infrastructure = 1
 		}
-	victory_points = { 3644 5 }	#Portus Lamanus
+	victory_points = { 17500 20 }	#Londinium
 	}
-	
+
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland
