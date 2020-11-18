@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 8637 3 }	#Aquae Buxtonia
+	victory_points = { 9396 5 }	#Deorabi
 	}
 	
 	manpower=1

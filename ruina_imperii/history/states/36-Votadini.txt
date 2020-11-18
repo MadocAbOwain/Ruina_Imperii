@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10378 5 }	#Vinovia
+	victory_points = { 9205 3 }	#Sagedunum
 	}
 	
 	manpower=1

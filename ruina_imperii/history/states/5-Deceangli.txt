@@ -11,6 +11,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 5538 3 }	#Segontium
 	}
 	
 	manpower=1

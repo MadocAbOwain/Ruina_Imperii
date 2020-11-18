@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10680 10 }	#Camulodunum
 	}
 	
 	manpower=1

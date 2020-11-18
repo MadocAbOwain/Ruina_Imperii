@@ -10,6 +10,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10336 1 }	#Loch Ranza
 	}
 	
 	manpower=1

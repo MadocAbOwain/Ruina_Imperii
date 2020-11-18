@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 8334 5 }	#Venta Icenorum
 	}
 	
 	manpower=1

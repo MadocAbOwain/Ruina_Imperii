@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 7628 10 }	#Eburaeum
+	victory_points = { 10418 5 }	#Montem Corvem
 	}
 	
 	manpower=1

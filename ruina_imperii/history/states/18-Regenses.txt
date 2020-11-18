@@ -9,8 +9,9 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10725 3 }	#Venta Belgarium
+	victory_points = { 15071 3 }	#Vectis
 	}
-	
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland

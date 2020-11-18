@@ -9,8 +9,10 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 8046 3 }	#Isca Dumnoniorum
+	victory_points = { 941 1 }	#Moridunum
+	victory_points = { 10850 5 }	#Camlynn
 	}
-	
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland

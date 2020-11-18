@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 8908 3 }	#Cramond
+	victory_points = { 10337 1 }	#Tribeinn
 	}
 	
 	manpower=1

@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 4484 5 }	#Glevum
+	victory_points = { 10658 10 }	#Isca
 	}
 	
 	manpower=1

@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10289 3 }	#Cnoc Bàra
 	}
 	
 	manpower=1

@@ -9,8 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 2310 10 }	#Aquae Sullis
 	}
-	
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category = wasteland

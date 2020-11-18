@@ -10,6 +10,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 5994 10 }	#Mac na Ceàrdaich
+	victory_points = { 6196 5 }	#Inbhir Nis
 	}
 	
 	manpower=1

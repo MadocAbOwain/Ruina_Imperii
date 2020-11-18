@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10464 3 }	#Cwcya
+	victory_points = { 3896 1 }	#Brymitwn-y-cwm
 	}
 	
 	manpower=1

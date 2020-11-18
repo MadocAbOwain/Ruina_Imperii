@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10520 5 }	#Deva
+	victory_points = { 5183 3 }	#Viroconium
 	}
 	
 	manpower=1

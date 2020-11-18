@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 6261 10 }	#Luguvallium
 	}
 	
 	manpower=1

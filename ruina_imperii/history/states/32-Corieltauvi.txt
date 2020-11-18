@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 4653 5 }	#Segelocum
 	}
 	
 	manpower=1

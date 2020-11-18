@@ -1,7 +1,7 @@
 state={
 	id=12
 	name="STATE_12"
-	provinces={ 10733 10742 3644 6426 17500 }
+	provinces={ 10733 10742 3644 6426 }
 	
 	history={
 		owner = BRT
@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 3644 5 }	#Portus Lamanus
+	victory_points = { 10733 20 }	#Londinium
 	}
 	
 	manpower=1

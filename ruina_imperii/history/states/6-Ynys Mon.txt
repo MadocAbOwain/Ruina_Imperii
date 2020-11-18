@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 3932 5 }	#Yr Eisteddfod
 	}
 	
 	manpower=1

@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 1806 5 }	#Caisteal Dùbhghlas
+	victory_points = { 7026 1 }	#Birrens
 	}
 	
 	manpower=1

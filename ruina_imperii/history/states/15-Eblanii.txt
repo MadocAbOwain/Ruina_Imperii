@@ -10,6 +10,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 3106 3 }	#Killeshin
+	victory_points = { 4249 1 }	#Ferns
 	}
 	
 	manpower=1

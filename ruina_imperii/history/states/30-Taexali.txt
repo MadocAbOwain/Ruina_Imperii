@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10244 5 }	#Grampius
 	}
 	
 	manpower=1

@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10391 5 }	#Lavantrae
+	victory_points = { 9580 5 }	#Aquae Torrentia
 	}
 	
 	manpower=1

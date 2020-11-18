@@ -10,6 +10,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10646 5 }	#Suberium
 	}
 	
 	manpower=1

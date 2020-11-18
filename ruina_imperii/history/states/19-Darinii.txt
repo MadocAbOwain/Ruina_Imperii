@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 1064 3 }	#Rhobogdioia
 	}
 	
 	manpower=1

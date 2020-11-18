@@ -9,6 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 15049 3 }	#Scapa Flow
 	}
 	
 	manpower=1

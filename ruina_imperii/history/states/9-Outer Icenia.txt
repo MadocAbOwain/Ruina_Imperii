@@ -9,6 +9,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 5108 5 }	#Garainonum
+	victory_points = { 5304 3 }	#Aldornea
 	}
 	
 	manpower=1

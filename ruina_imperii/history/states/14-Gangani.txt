@@ -10,6 +10,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+	victory_points = { 10543 10 }	#Autenoi
 	}
 	
 	manpower=1
