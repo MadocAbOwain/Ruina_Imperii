@@ -10,7 +10,7 @@
  STATE_9:1 "Icenia Dista"
  STATE_10:1 "Icenia Proxima"
  STATE_11:1 "Trinovantes"
- STATE_12:1 "Londinium"
+ STATE_12:1 "Cantaci"
  STATE_13:1 "Vellabori"
  STATE_14:1 "Gangani"
  STATE_15:1 "Eblanii"
@@ -37,7 +37,7 @@
  STATE_36:1 "Votadini"
  STATE_37:1 "Cornovii"
  STATE_38:1 "Murum Hdarianum"
-# STATE_:1 ""
+ STATE_61:1 "Londinium"
 # STATE_:1 ""
 
 ###Caucasus States###
