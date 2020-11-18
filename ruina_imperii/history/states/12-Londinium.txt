@@ -1,7 +1,7 @@
 state={
 	id=12
 	name="STATE_12"
-	provinces={ 10733 10742 3644 6426 }
+	provinces={ 10733 10742 3644 6426 17500 }
 	
 	history={
 		owner = BRT

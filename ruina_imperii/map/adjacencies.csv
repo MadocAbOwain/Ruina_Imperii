@@ -10,5 +10,4 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10725;15071;sea;16537;-1;-1;-1;-1;;Solentum
 16733;16162;;-1;-1;-1;-1;-1;CANALIS_PELUSIUM;Canalis Pelusium
 15847;16967;;-1;-1;-1;-1;-1;VALLZOISEN_VAYLA;Vallzoisen Väylä
-15770;16184;impassable;-1;-1;-1;-1;-1;;Sea border test
 -1;-1;;-1;-1;-1;-1;-1;-1
