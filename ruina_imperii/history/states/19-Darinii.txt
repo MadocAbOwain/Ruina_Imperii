@@ -12,7 +12,7 @@ state={
 	victory_points = { 1064 3 }	#Rhobogdioia
 	}
 	
-	manpower=1
+	manpower=1279745
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 }
