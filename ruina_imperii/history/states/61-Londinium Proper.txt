@@ -12,7 +12,7 @@ state={
 	victory_points = { 17500 20 }	#Londinium
 	}
 
-	manpower=1
+	manpower= 8098942
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 }
