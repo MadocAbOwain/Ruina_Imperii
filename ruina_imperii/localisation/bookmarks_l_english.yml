@@ -1,4 +1,5 @@
 ﻿l_english:
+##BRITTANIA##
  BM_HISTORY_TITLE:0 "Brief History"
  GATHERING_STORM_NAME:0 "Bruma Tristiae"
  GATHERING_STORM_DESC:0 "In Brittania, there is a saying: 'The poorer fellow will live another day'. For the Celtic tribes, this is certainly true. Trampled by romans for close to two thousand years, subjugated by Vikings for a millennium, the Celtic people have developed a strong culture of resistance. To the South, Roman Legions plot to march north to perform their final conquest of Brittania; To the north, the Vikings seek to bring the Scots and Hibernians into the Norse fold, and sandwiched between them ae the Celts. Having long waited, they are ready to strike, but will they work as one, or will they tear each other apart?"
@@ -18,3 +19,14 @@
  ORD_GATHERING_STORM_DESC:0 ""
  PAR_GATHERING_STORM_DESC:0 ""
  ALB_GATHERING_STORM_DESC:0 ""
+##CAUCASIA##
+ CAUCASIA_NAME:0 "Mons Viridis"
+ CAUCASIA_DESC:0 ""
+ CRC_GATHERING_STORM_DESC:0 ""
+ AZR_GATHERING_STORM_DESC:0 ""
+ AMN_GATHERING_STORM_DESC:0 ""
+ GRG_GATHERING_STORM_DESC:0 ""
+ GMR_GATHERING_STORM_DESC:0 ""
+ MGI_GATHERING_STORM_DESC:0 ""
+ SBG_GATHERING_STORM_DESC:0 ""
+ KMK_GATHERING_STORM_DESC:0 ""
