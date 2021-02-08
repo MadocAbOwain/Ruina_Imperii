@@ -1,0 +1,105 @@
+bookmarks = {
+	bookmark = {
+		name = "CAUCASIA_NAME"
+		desc = "CAUCASIA_DESC"
+		date = 1930.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "CRC"
+		default = no
+		
+		"CRC"={
+			history = "CRC_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"AZR"={
+			history = "AZR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"AMN"={
+			history = "AMN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"GRG"={
+			history = "GRG_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"GMR"={
+			history = "GMR_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"MGI"={
+			history = "MGI_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"SBG"={
+			history = "SBG_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"KMK"={
+			history = "KMK_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		# minors from DLC ####
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

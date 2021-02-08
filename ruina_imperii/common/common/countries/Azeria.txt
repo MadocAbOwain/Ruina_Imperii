@@ -1,0 +1,6 @@
+
+
+graphical_culture = eastern_european_gfx
+graphical_culture_2d = eastern_europeann_2d
+
+color = rgb { 74 191 140 }

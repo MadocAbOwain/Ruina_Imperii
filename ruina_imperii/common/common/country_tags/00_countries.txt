@@ -1,0 +1,54 @@
+TES	= "countries/Test.txt"
+#####OUR COUNTRIES###
+##BRITTANIA##
+ALB	= "countries/alba.txt"
+BRG	= "countries/brigantes.txt"
+BRT	= "countries/brittania romania.txt"
+CTV	= "countries/catuveilani.txt"
+DAR	= "countries/darinii.txt"
+DMN	= "countries/demnonii.txt"
+DRU	= "countries/druids.txt"
+HIL	= "countries/hibernia libira.txt"
+HIR	= "countries/hibernia romani.txt"
+ICI	= "countries/iceni.txt"
+NAG	= "countries/nagantii.txt"
+ORD	= "countries/ordovites.txt"
+PAR	= "countries/parisi.txt"
+PIC	= "countries/pictia.txt"
+RVK	= "countries/riki vikinganna.txt"
+SIL	= "countries/silures.txt"
+
+###CAUCASUS###
+AZR	= "countries/Azeria.txt"
+AMN	= "countries/Armenia.txt"
+CRC	= "countries/Circassia.txt"
+DGH	= "countries/Daghestan.txt"
+GMR = "countries/Green Mountain Republic.txt"
+GRG = "countries/Georgia.txt"
+KAB	= "countries/Karachay Balkaria.txt"
+KHZ = "countries/Khazaria.txt"
+KMK	= "countries/Kalmykia.txt"
+MGI	= "countries/Magyari.txt"
+SBG	= "countries/South Bolgaria.txt"
+
+
+
+
+
+
+
+
+
+
+###TEMPLATE###
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"
+#	= "countries/.txt"

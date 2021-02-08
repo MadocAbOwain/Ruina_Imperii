@@ -1,0 +1,199 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1930.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BRT"
+		default = yes
+		
+		"BRT"={
+			history = "BRT_GATHERING_STORM_DESC"
+			ideology = imperialism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"HIL"={
+			history = "HIL_GATHERING_STORM_DESC"
+			ideology = nationalism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"RVK"={
+			history = "RVK_GATHERING_STORM_DESC"
+			ideology = federalism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"DRU"={
+			history = "DRU_GATHERING_STORM_DESC"
+			ideology = theocratic
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"PIC"={
+			history = "PIC_GATHERING_STORM_DESC"
+			ideology = federalism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ICI"={
+			history = "ICI_GATHERING_STORM_DESC"
+			ideology = imperialism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"SIL"={
+			history = "SIL_GATHERING_STORM_DESC"
+			ideology = imperialism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"DMN"={
+			history = "DMN_GATHERING_STORM_DESC"
+			ideology = imperialism
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		# minors from DLC ####
+		"BRG"={
+			history = "BRG_GATHERING_STORM_DESC"
+			ideology = republicanism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"CTV"={
+			history = "CTV_GATHERING_STORM_DESC"
+			ideology = mercantilism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}		
+		"DAR"={
+			history = "DAR_GATHERING_STORM_DESC"
+			ideology = liberationism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		"HIR"={
+			history = "HIR_GATHERING_STORM_DESC"
+			ideology = nationalism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"NAG"={
+			history = "NAG_GATHERING_STORM_DESC"
+			ideology = nationalism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ORD"={
+			history = "ORD_GATHERING_STORM_DESC"
+			ideology = imperialism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"PAR"={
+			history = "PAR_GATHERING_STORM_DESC"
+			ideology = esoteric
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		"ALB"={
+			history = "ALB_GATHERING_STORM_DESC"
+			ideology = federalism
+			minor = yes
+			ideas = {
+				
+				
+			}
+			focuses = {
+			
+			}
+		}
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
