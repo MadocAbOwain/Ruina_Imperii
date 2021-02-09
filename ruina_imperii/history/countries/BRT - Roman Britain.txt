@@ -10,25 +10,42 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = imperialism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	republicanism = 0
+	nationalism = 20
+	imperialism = 50
+	theocratic = 5
+	esoteric = 5
+	federalism = 20
+	mercantilism = 0
+	aristotelian = 0
+	liberationism = 0
 }
 
 create_country_leader = {
-	name = "Marie T. Smith"
+	name = "Tullus Calidius Ursus"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_Microwave.tga"
+	picture = "Portrait_BRT_Tullus_Calidius_Ursus.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = ceaserianism
 	traits = {
 		#
 	}
 }
+create_corps_commander = {
+	name = "Septima Iulia Londinia"
+	picture = "Portrait_BRT_Septima_Iulia_Londinia.dds"
+	traits = { commando }
+	female = yes
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+

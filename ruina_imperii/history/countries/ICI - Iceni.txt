@@ -10,24 +10,30 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = imperialism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	republicanism = 5
+	nationalism = 15
+	imperialism = 70
+	theocratic = 0
+	esoteric = 0
+	federalism = 2
+	mercantilism = 2
+	aristotelian = 6
+	liberationism = 0
 }
 
 create_country_leader = {
-	name = "Marie T. Smith"
+	name = "Boudicea IV"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_Microwave.tga"
+	picture = "Portrait_ICI_Boudicea_IV.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = absolute_monarchy
+	female = yes
 	traits = {
 		#
 	}

@@ -10,24 +10,30 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = federalism 
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	republicanism = 1
+	nationalism = 1
+	imperialism = 1
+	theocratic = 1
+	esoteric = 1
+	federalism = 60
+	mercantilism = 5
+	aristotelian = 25
+	liberationism = 5
 }
 
 create_country_leader = {
-	name = "Marie T. Smith"
+	name = "Astrid Hammarström"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_Microwave.tga"
+	picture = "Portrait_RVK_Astrid_Hammarstrom.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	female = yes
+	ideology = humanist_federation
 	traits = {
 		#
 	}

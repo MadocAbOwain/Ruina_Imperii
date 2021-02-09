@@ -10,24 +10,39 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = theocratic
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	republicanism = 0
+	nationalism = 0
+	imperialism = 0
+	theocratic = 50
+	esoteric = 20
+	federalism = 5
+	mercantilism = 0
+	aristotelian = 5
+	liberationism = 20
 }
 
 create_country_leader = {
-	name = "Marie T. Smith"
+	name = "High Preist Hemlock"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_Microwave.tga"
+	picture = "Portrait_DRU_Hemlock.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = kritarchy
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "The Mari Lwyd"
+	desc = "POLITICS_MARIE_T_SMITH_DESC"
+	picture = "Portrait_DRU_Mari_Lwyd.dds"
+	expire = "1965.1.1"
+	ideology = vivideistic_monarchy
 	traits = {
 		#
 	}

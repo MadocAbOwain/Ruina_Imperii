@@ -10,24 +10,29 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = federalism 
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 50
-	fascism = 36
-	communism = 10
-	neutrality = 4
+	republicanism = 5
+	nationalism = 15
+	imperialism = 5
+	theocratic = 2
+	esoteric = 1
+	federalism = 65
+	mercantilism = 2
+	aristotelian = 3
+	liberationism = 2
 }
 
 create_country_leader = {
-	name = "Marie T. Smith"
+	name = "Conall McNia"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_Microwave.tga"
+	picture = "Portrait_ALB_Conall_McNia.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = parlimentarism
 	traits = {
 		#
 	}

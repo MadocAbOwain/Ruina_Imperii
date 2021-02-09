@@ -1,4 +1,4 @@
-capital = 3
+capital = 20
 
 #oob = ""
 
@@ -10,30 +10,30 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = imperialism
+	ruling_party = esoteric 
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	republicanism = 5
+	republicanism = 0
 	nationalism = 0
-	imperialism = 75
+	imperialism = 0
 	theocratic = 0
-	esoteric = 5
-	federalism = 5
+	esoteric = 100
+	federalism = 0
 	mercantilism = 0
-	aristotelian = 5
-	liberationism = 5
+	aristotelian = 0
+	liberationism = 0
 }
 
 create_country_leader = {
-	name = "Ceridwen"
+	name = "Gwendolina Madeg"
 	desc = "POLITICS_MARIE_T_SMITH_DESC"
-	picture = "Portrait_SIL_Ceridwen.dds"
+	picture = "Portrait_NAG_Gwendolina_Madeg.dds"
 	expire = "1965.1.1"
-	ideology = constitutional_monarchy
 	female = yes
+	ideology = esoteric_palengenisis
 	traits = {
 		#
 	}
