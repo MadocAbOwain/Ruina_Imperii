@@ -176,15 +176,15 @@ ideologies = {
 	}
 	theocratic = {
 		types = {		
-			occultism  = {
+			divine_right = {
 			}
-			abrahamic  = {
+			kritarchy = {
 			}
-			pagan = {
+			divine_command = {
 			}
-			gnostic = {
+			ceasaropapism = {
 			}
-			philosopher_theocracy = {
+			communalism = {
 			}
 		}
 
@@ -214,6 +214,59 @@ ideologies = {
 			join_faction_tension = 0.4
 			lend_lease_tension = 0.4
 			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+	esoteric = {
+		types = {		
+			cult = {
+			}
+			esoteric_palengenisis = {
+			}
+			holy_order = {
+			}
+			death_cult = {
+			}
+			vivideistic_monarchy = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_ESOTERIC_1"
+			"FACTION_NAME_ESOTERIC_2"
+			"FACTION_NAME_ESOTERIC_3"
+			"FACTION_NAME_ESOTERIC_4"
+			"FACTION_NAME_ESOTERIC_5"
+		}
+		
+		color = { 200 200 200 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0
+			join_faction_tension = 0.8
+			lend_lease_tension = 0.5
+			send_volunteers_tension = 0.1
 			guarantee_tension = 0.4
 			drift_defence_factor = -0.3	
 			civilian_intel_to_others = 20.0
@@ -289,9 +342,9 @@ ideologies = {
 	}
 	mercantilism = {
 		types = {		
-			corpocracy  = {
+			corpocracy = {
 			}
-			national_charter  = {
+			national_charter = {
 			}
 			caravisionary = {
 			}
@@ -341,6 +394,61 @@ ideologies = {
 			faction_trade_opinion_factor = 0.75
 		}
 
+		ai_neutral = yes # 
+	}
+	aristotelian = {
+		types = {		
+			appointed_parliament = {
+			}
+			technocracy = {
+			}
+			privy = {
+			}
+			philosocracy = { 
+			}
+			crony_democracy = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_ARISTOTLE_1"
+			"FACTION_NAME_ARISTOTLE_2"
+			"FACTION_NAME_ARISTOTLE_3"
+			"FACTION_NAME_ARISTOTLE_4"
+			"FACTION_NAME_ARISTOTLE_5"
+		}
+		
+		color = { 200 100 0 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = no
+			can_puppet = yes
+			can_send_volunteers = no
+		}
+		
+		modifiers = {
+			increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.05 }
+		}
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.75
+		}
 		ai_neutral = yes # 
 	}
 	liberationism = {
