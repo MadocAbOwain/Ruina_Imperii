@@ -1,0 +1,90 @@
+music_station = "ri_radio"
+music = {
+	song = "caledonii_song"
+	chance = {
+		modifier = {
+			factor = 1
+			original_tag = PIC
+		}
+	}
+}
+music = {
+	song = "finaldays_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "flatholm_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "higlandking_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "hoi4_allies_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "livgardet_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "opismutiny_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "persuit_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "spqr_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "sybilline_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "traitor_song"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}

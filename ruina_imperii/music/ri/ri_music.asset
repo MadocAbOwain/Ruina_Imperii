@@ -1,0 +1,55 @@
+music = {
+	name = "caledonii_song"
+	file = "caledonii_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "finaldays_song"
+	file = "finaldays_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "flatholm_song"
+	file = "flatholm_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "higlandking_song"
+	file = "higlandking_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "hoi4_allies_song"
+	file = "hoi4_allies_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "livgardet_song"
+	file = "livgardet_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "opismutiny_song"
+	file = "opismutiny_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "persuit_song"
+	file = "persuit_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "spqr_song"
+	file = "spqr_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "sybilline_song"
+	file = "sybilline_song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "traitor_song"
+	file = "traitor_song.ogg"
+	volume = 0.65
+}
