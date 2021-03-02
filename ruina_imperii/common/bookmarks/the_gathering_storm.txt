@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"BRT"={
 			history = "BRT_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = imperialism
 			ideas = {
 				
 				
@@ -20,7 +20,7 @@ bookmarks = {
 		}
 		"HIL"={
 			history = "HIL_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = nationalism
 			ideas = {
 				
 				
@@ -31,7 +31,7 @@ bookmarks = {
 		}
 		"RVK"={
 			history = "RVK_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = federalism
 			ideas = {
 				
 				
@@ -42,7 +42,7 @@ bookmarks = {
 		}
 		"DRU"={
 			history = "DRU_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = theocratic
 			ideas = {
 				
 				
@@ -53,7 +53,7 @@ bookmarks = {
 		}
 		"PIC"={
 			history = "PIC_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = federalism
 			ideas = {
 				
 				
@@ -64,7 +64,7 @@ bookmarks = {
 		}
 		"ICI"={
 			history = "ICI_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = imperialism
 			ideas = {
 				
 				
@@ -75,7 +75,7 @@ bookmarks = {
 		}
 		"SIL"={
 			history = "SIL_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = imperialism
 			ideas = {
 				
 				
@@ -86,7 +86,7 @@ bookmarks = {
 		}
 		"DMN"={
 			history = "DMN_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = imperialism
 			ideas = {
 				
 				
@@ -98,7 +98,7 @@ bookmarks = {
 		# minors from DLC ####
 		"BRG"={
 			history = "BRG_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = republicanism
 			minor = yes
 			ideas = {
 				
@@ -110,7 +110,7 @@ bookmarks = {
 		}
 		"CTV"={
 			history = "CTV_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = mercantilism
 			minor = yes
 			ideas = {
 				
@@ -122,7 +122,7 @@ bookmarks = {
 		}		
 		"DAR"={
 			history = "DAR_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = liberationism
 			minor = yes
 			ideas = {
 				
@@ -131,9 +131,10 @@ bookmarks = {
 			focuses = {
 			
 			}
+		}
 		"HIR"={
 			history = "HIR_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = nationalism
 			minor = yes
 			ideas = {
 				
@@ -145,7 +146,7 @@ bookmarks = {
 		}
 		"NAG"={
 			history = "NAG_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = nationalism
 			minor = yes
 			ideas = {
 				
@@ -157,7 +158,7 @@ bookmarks = {
 		}
 		"ORD"={
 			history = "ORD_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = imperialism
 			minor = yes
 			ideas = {
 				
@@ -169,7 +170,7 @@ bookmarks = {
 		}
 		"PAR"={
 			history = "PAR_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = esoteric
 			minor = yes
 			ideas = {
 				
@@ -181,7 +182,7 @@ bookmarks = {
 		}
 		"ALB"={
 			history = "ALB_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = federalism
 			minor = yes
 			ideas = {
 				
