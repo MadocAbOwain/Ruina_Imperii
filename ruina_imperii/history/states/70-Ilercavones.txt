@@ -1,0 +1,18 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={ 4640 5033 2861 3573 5619 7165 11744 1486 11740 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	#victory_points = { 17500 20 }	#Londinium
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
