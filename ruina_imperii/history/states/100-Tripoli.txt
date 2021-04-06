@@ -1,0 +1,19 @@
+state={
+	id=100
+	name="STATE_100"
+	provinces={ 5612 6768 7730 8014 124 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 5612 15 }	#Tripoli
+	victory_points = { 124 1 }	#Garyan
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
