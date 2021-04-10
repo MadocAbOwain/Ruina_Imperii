@@ -1,0 +1,18 @@
+state={
+	id=102
+	name="STATE_102"
+	provinces={ 14061 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 14061 4 }	#Wadan
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

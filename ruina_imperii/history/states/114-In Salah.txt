@@ -1,0 +1,18 @@
+state={
+	id=114
+	name="STATE_114"
+	provinces={ 8693 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 8693 3 }	#In Salah
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

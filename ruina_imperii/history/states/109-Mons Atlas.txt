@@ -1,0 +1,17 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={ 13137 4265 8407 12903 7111 8223 3863 }
+	impassable=yes
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

@@ -1,0 +1,18 @@
+state={
+	id=106
+	name="STATE_106"
+	provinces={ 6050 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 6050 2 }	#Taodeni
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

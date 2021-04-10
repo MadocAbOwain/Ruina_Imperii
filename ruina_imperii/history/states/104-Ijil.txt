@@ -1,0 +1,18 @@
+state={
+	id=104
+	name="STATE_104"
+	provinces={ 13845 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 13845 4 }	#Ijil
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

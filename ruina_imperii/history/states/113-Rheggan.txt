@@ -1,0 +1,18 @@
+state={
+	id=113
+	name="STATE_113"
+	provinces={ 1179 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 1179 3 }	#Rheggan
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

@@ -1,0 +1,18 @@
+state={
+	id=112
+	name="STATE_112"
+	provinces={ 7263 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 7263 3 }	#El Goela
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

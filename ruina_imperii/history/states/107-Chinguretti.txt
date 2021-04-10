@@ -1,0 +1,18 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={ 5744 }
+	
+	history={
+		owner = TES
+		add_core_of = TES
+		buildings = {
+			infrastructure = 1
+		}
+	victory_points = { 5744 4 }	#Chinguretti
+	}
+
+	manpower= 8098
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
