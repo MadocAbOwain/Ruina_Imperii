@@ -1,7 +1,7 @@
 state={
 	id=104
 	name="STATE_104"
-	provinces={ 13845 }
+	provinces={ 13843 }
 	
 	history={
 		owner = TES
@@ -9,7 +9,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-	victory_points = { 13845 4 }	#Ijil
+	victory_points = { 13843 4 }	#Ijil
 	}
 
 	manpower= 8098

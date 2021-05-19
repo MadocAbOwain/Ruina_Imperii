@@ -1,7 +1,7 @@
 state={
-	id=109
-	name="STATE_109"
-	provinces={ 8407 12903 7111 8223 3863 6893 3495 12872 }
+	id=119
+	name="STATE_119"
+	provinces={ 375 12898 1334 3072 12811 2110 4037 1529 }
 	impassable=yes
 	history={
 		owner = TES
